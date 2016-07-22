@@ -1,1 +1,1 @@
-# Magic
+MVC Web Application Java
